@@ -1,0 +1,11 @@
+streamlit
+transformers
+sentence-transformers
+torch
+PyPDF2
+whisper
+openai-whisper
+faiss-cpu
+pdfplumber
+langchain
+pydub
